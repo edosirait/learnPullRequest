@@ -6,15 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'punya edo';
-}
-
-
-export class AppComponent2 {
-  title = 'punya ajis';
-}
-
-export class AppComponent3 {
-  title = 'punya ajis2';
+  title = 'learnPullRequest';
 }
 
