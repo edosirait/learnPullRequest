@@ -8,3 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'punya edo';
 }
+
+
+export class AppComponent2 {
+  title = 'punya ajis';
+}
+
