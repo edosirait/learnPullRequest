@@ -9,3 +9,8 @@ export class AppComponent {
   title = 'learnPullRequest';
 }
 
+
+export class AppComponent2 {
+  title = 'learnPullRequest';
+}
+
